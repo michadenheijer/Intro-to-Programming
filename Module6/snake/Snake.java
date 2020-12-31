@@ -4,6 +4,8 @@ import ui.UserInterfaceFactory;
 import ui.Event;
 import ui.SnakeUserInterface;
 import ui.UIAuxiliaryMethods;
+
+import java.util.Locale;
 import java.util.Scanner;
 
 
@@ -156,6 +158,7 @@ public class Snake {
 	}
 	
 	public static void  main(String args[]) {
+		Locale.setDefault(Locale.US);
 		new Snake().start();
 	}
 	

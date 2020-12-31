@@ -6,6 +6,7 @@
 	<classpathentry kind="src" path="Module4"/>
 	<classpathentry kind="src" path="Module5"/>
 	<classpathentry kind="src" path="Module6"/>
+	<classpathentry kind="src" path="Module7"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
 		<attributes>
 			<attribute name="module" value="true"/>
